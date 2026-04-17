@@ -24,7 +24,7 @@ Automation engineer with 18+ years of experience turning manual IT processes int
 | Repo | Description |
 |---|---|
 | [ServiceNow-BatchPluginUpdater](https://github.com/burghr/ServiceNow-BatchPluginUpdaterWidget) | Service Portal widget for batch-updating installed plugins via the CICD REST API. Auto-discovers updates, license checking, real-time progress. |
-| [ServiceNow-CWM-GanttChart](https://github.com/burghr/ServiceNow-CWM-GanttChart) | Interactive Gantt chart for CWM tasks. Zoom levels, user filtering, tooltips, space filtering via URL parameter. |
+| [ServiceNow-CWM-Space-Gantt](https://github.com/burghr/ServiceNow-CWM-Space-Gantt) | Interactive Gantt chart for CWM tasks. Zoom levels, user filtering, tooltips, space filtering via URL parameter. |
 | [ServiceNow-Copy-CWM-Automations](https://github.com/burghr/ServiceNow-Copy-CWM-Automations) | Widget for cloning CWM automation rules between boards. |
 | [ServiceNow-Catalog-Create-Script](https://github.com/burghr/ServiceNow-Catalog-Create-Script) | Scripted catalog item that provisions new catalog items with role-based access and variable templates. |
 
