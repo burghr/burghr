@@ -1,4 +1,4 @@
-# Hey, burghr
+# Hey, im burghr
 
 Automation engineer with 18+ years of experience turning manual IT processes into reliable, self-service workflows. Currently focused on ServiceNow platform engineering, full-stack web apps, and infrastructure automation.
 
