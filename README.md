@@ -24,7 +24,8 @@ I am an automation engineer with 18+ years of experience turning manual IT proce
 
 | Repo | Description |
 |---|---|
-| [Hop](https://github.com/burghr/Hop) | Keyboard-driven address bar for macOS Finder. Click the menu bar icon, type a path or pick a favorite, hit Enter — Finder jumps there instantly. Tab completion, history, and network share support. Python + rumps. |
+| [Hop](https://github.com/burghr/Hop) | Keyboard-driven address bar for macOS Finder. Click the menu bar icon, type a path or pick a favorite, hit Enter and Finder jumps there instantly. Tab completion, history, and network share support. Python + rumps. |
+| [MacMixer](https://github.com/burghr/MacMixer) | Menu bar per-app volume mixer built on Core Audio process taps, so there's no audio driver to install and no microphone indicator. Per-app volume with boost, master volume, and output-device switching. Swift/SwiftUI. |
 | [Macro-Deck](https://github.com/burghr/Macro-Deck) | Stream Deck-style macro launcher from the menu bar. Configurable grid of tiles for keystroke sequences, text snippets, and shell commands. Global hotkeys, translucent popup, auto-launch at login. Python + PyQt6. |
 
 ### AI / Dev Tools
